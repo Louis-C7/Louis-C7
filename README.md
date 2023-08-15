@@ -29,5 +29,5 @@
 
 ### 🦁 Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-C7&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-C7&theme=radical&layout=compact)
   
