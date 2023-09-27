@@ -14,6 +14,7 @@
 
 ### 📱 Devices
 [![](https://img.shields.io/badge/-iPhone%2013%20Pro%20Max-black?style=flat-square&logo=apple)](https://www.apple.com/iphone-13-pro/)
+[![](https://img.shields.io/badge/Huawei%20Mate50%20Pro-black?style=flat-square&logo=huawei&logoColor=white)](https://www.vmall.com/index.html)
 [![](https://img.shields.io/badge/Huawei%20Mate40%20Pro-black?style=flat-square&logo=huawei&logoColor=white)](https://www.vmall.com/index.html)
 [![](https://img.shields.io/badge/Xiaomi%2010%20Pro-black?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/shop)
 [![](https://img.shields.io/badge/Desktop%20Computer-black?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
