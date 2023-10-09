@@ -12,13 +12,6 @@
 [![](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/louis-c7/)
 [![](https://img.shields.io/badge/CSDN-black?style=flat-square)](https://blog.csdn.net/weixin_44507034?type=blog)
 
-### 📱 Devices
-[![](https://img.shields.io/badge/-iPhone%2013%20Pro%20Max-black?style=flat-square&logo=apple)](https://www.apple.com/iphone-13-pro/)
-[![](https://img.shields.io/badge/Huawei%20Mate50%20Pro-black?style=flat-square&logo=huawei&logoColor=white)](https://www.vmall.com/index.html)
-[![](https://img.shields.io/badge/Huawei%20Mate40%20Pro-black?style=flat-square&logo=huawei&logoColor=white)](https://www.vmall.com/index.html)
-[![](https://img.shields.io/badge/Xiaomi%2010%20Pro-black?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/shop)
-[![](https://img.shields.io/badge/Desktop%20Computer-black?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
-
 ### 📚 All Skills
 
 ![](https://skillicons.dev/icons?perline=15&i=python,pytorch,tensorflow,androidstudio,arduino,git,matlab,vscode,js,ts,cpp,java,react,mysql,md,linux,docker,ps,pr,ae)
