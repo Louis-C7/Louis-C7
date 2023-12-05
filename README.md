@@ -8,8 +8,6 @@
 ### 🌏 Some Links
 
 [![](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Louis-C7/)
-[![](https://img.shields.io/badge/Bilibili-black?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/22140104?spm_id_from=333.788.0.0)
-[![](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/louis-c7/)
 [![](https://img.shields.io/badge/CSDN-black?style=flat-square)](https://blog.csdn.net/weixin_44507034?type=blog)
 
 ### 📚 All Skills
