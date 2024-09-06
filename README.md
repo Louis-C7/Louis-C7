@@ -10,12 +10,6 @@
 [![](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Louis-C7/)
 [![](https://img.shields.io/badge/CSDN-black?style=flat-square)](https://blog.csdn.net/weixin_44507034?type=blog)
 
-### 📚 All Skills
-
-![](https://skillicons.dev/icons?perline=15&i=python,pytorch,tensorflow,androidstudio,arduino,git,matlab,vscode,js,ts,cpp,java,react,mysql,md,linux,docker,ps,pr,ae)
-
-[![](https://img.shields.io/badge/HarmonyOS-black?style=flat)](https://www.harmonyos.com/)
-
 ### 😜 Commit Stats
 
 <p>
