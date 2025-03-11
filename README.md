@@ -1,5 +1,7 @@
 📟 Currently focused on machine learning in the advertising domain
-📱 Former owner of the react-native-openharmony-third-party-library organization
+
+📱 Former owner of the `react-native-openharmony-third-party-library` organization
+
 📫 How to reach me: chenlixi7@outlook.com
 
 <p>
